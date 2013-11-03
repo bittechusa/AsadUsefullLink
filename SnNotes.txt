@@ -1,1 +1,13 @@
+Web Application
 
+What is Web Application?
+A:Any application that uses a web browser as a client is web application. 
+
+Benefits:
+
+-Do not require complex "roll out" procedure to deploy in organizations. A compatible web browser is all that is needed;
+-Browser applications typically require little or no disk space on the client;
+-They require no upgrade procedure since all new features are implemented on the server and automatically delivered to the users;
+-Web applications integrate easily into other server-side web procedures, such as email and searching.
+-They also provide cross-platform compatibility in most cases (i.e., Windows, Mac, Linux, etc.) because they operate within a web browser window.
+-With the advent of HTML5, programmers can create richly interactive environments natively within browsers. Included in the list of new features are native audio, video and animations, as well as improved error handling.

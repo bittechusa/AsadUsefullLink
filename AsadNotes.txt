@@ -1,3 +1,22 @@
 To find which version of Windows you are running, enter the following command in the Command Prompt:
 wmic os get osarchitecture
 
+How to enter into Mysql DB from cmd
+
+mysql -u root
+
+
+show databases;
+
+create database bittechdb;
+
+use bittechdb;
+
+create table student_info(full_name varchar(40), email varchar(60));
+
+
+show tables;
+
+// if we want to see how many columns or table structure we have in a table
+
+describe student_info;
